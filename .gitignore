@@ -1,0 +1,16 @@
+Data
+*~
+*.asv
+.tresorit
+Output
+*.odt*
+*.doc*
+*.mat
+*GPU_?.log
+matlab/PSOCT/Third-party/imfilter_mex.*
+*.lut
+ImageJ/macros/*
+!ImageJ/macros/StartupMacros*
+ImageJ/jars/*
+ImageJ/plugins/*
+python/.ipynb_checkpoints/*
